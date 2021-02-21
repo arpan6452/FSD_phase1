@@ -1,2 +1,2 @@
 # FSD_phase1
-Projects contains all full stack development prjects
+Projects contains all full stack development projects

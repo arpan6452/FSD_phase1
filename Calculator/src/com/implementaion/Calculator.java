@@ -7,5 +7,6 @@ public class Calculator {
 		calc.substract(20,4);
 		calc.multiply(20, 4);
 		calc.divide(20, 4);
+		calc.multiply(4, CalculatorModel.PI);
 	}
 }
